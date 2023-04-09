@@ -9,4 +9,6 @@ Códigos de algumas animações feitas por mim utilizando a biblioteca Manim do 
 
 - animavect: Animação que usa de vetores no plano para derivar sin(a-b) e cos(a-b);
 
+- Prog.Arit: Animação que mostra a derivação da fórmula do termo geral e da soma dos termos em uma Progressão Aritmética;
+
 Em breve adiciono outras animações.
