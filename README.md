@@ -11,4 +11,6 @@ Códigos de algumas animações feitas por mim utilizando a biblioteca Manim do 
 
 - Prog.Arit: Animação que mostra a derivação da fórmula do termo geral e da soma dos termos em uma Progressão Aritmética;
 
+- pitagoras: Animação que mostra a demonstração do Teorema de Pitágoras em uma abordagem geométrica;
+
 Em breve adiciono outras animações.
