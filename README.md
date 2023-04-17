@@ -13,4 +13,6 @@ Códigos de algumas animações feitas por mim utilizando a biblioteca Manim do 
 
 - pitagoras: Animação que mostra a demonstração do Teorema de Pitágoras em uma abordagem geométrica;
 
+- bhaskara: Animação que mostra a demonstração da Fórmula de Bhaskara;
+
 Em breve adiciono outras animações.
