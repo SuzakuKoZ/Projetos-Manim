@@ -15,4 +15,6 @@ Códigos de algumas animações feitas por mim utilizando a biblioteca Manim do 
 
 - bhaskara: Animação que mostra a demonstração da Fórmula de Bhaskara;
 
+- taylor-series: Representação gráfica da série de Taylor da função sin(x);
+
 Em breve adiciono outras animações.
